@@ -1,2 +1,7 @@
 # A_OOPCGminiproject_Tetris
-OOPCG project_(49,33,32)_[TITLE=Tetris]
+Title : TETRIS
+Team Members :
+  Shantanu Patil (49)
+  Harsh Kumbhare (32)
+  Ayush Lad (33)
+OOPCG project
